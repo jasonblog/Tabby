@@ -22,8 +22,7 @@
 - 0056 的股價都在 20∼25 元區間震盪
 - 每年穩定配發約 1 元的現金股利
 
-![](images/0056.png)
-
+![](../images/0056.png)
 
 
 https://goodinfo.tw/StockInfo/StockDividendPolicy.asp?STOCK_ID=0056
