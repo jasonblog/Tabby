@@ -23,6 +23,12 @@
 - 每年穩定配發約 1 元的現金股利
 
 
+![](images/0056.png)
+
+
+https://goodinfo.tw/StockInfo/StockDividendPolicy.asp?STOCK_ID=0056
+
+
 ## 用 0056 做價差策略穩穩賺
 ### 操作 23 元以下買進
 
