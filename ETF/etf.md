@@ -64,3 +64,18 @@ https://www.cmoney.tw/notes/note-detail.aspx?nid=85923
 ### 補充
 - 不要追高買，大跌大買 小跌小買 (相當三角形買法)
 - 買在五年均價以下 or 最好是五年低價平均價
+
+
+
+## ETF書單
+
+- 零基礎的佛系理財術：只要一招，安心穩穩賺 by 施昇輝
+    -  https://www.books.com.tw/products/0010814872
+
+![](../images/2015630641170b.jpg)
+
+
+- 我用1檔ETF存自己的18% by 陳重銘 
+    -  https://www.books.com.tw/products/0010824151
+
+![](../images/2014941609381b.jpg)
