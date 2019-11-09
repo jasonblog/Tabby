@@ -37,6 +37,17 @@
 
 ---
 
+## 篩選股票
+- 連續10年以上發現金股利
+- 現金股利至少1元以上
+- 股本大於50億
+
+```
+https://goodinfo.tw/StockInfo/StockList.asp?MARKET_CAT=%E8%87%AA%E8%A8%82%E7%AF%A9%E9%81%B8&INDUSTRY_CAT=%E6%88%91%E7%9A%84%E6%A2%9D%E4%BB%B6&FILTER_ITEM0=%E5%B9%B4%E5%BA%A6%E2%80%93ROE%28%25%29&FILTER_VAL_S0=30&FILTER_VAL_E0=&FILTER_SHEET=%E5%B9%B4%E7%8D%B2%E5%88%A9%E8%83%BD%E5%8A%9B&WITH_ROTC=F&FILTER_QUERY=%E6%9F%A5++%E8%A9%A2
+```
+
+---
+
 ## 書單
 
 ###練選股<br>
