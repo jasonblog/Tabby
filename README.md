@@ -108,7 +108,7 @@ https://goodinfo.tw/StockInfo/StockList.asp?MARKET_CAT=%E8%87%AA%E8%A8%82%E7%AF%
 ###ETF<br>
 ◎ 我用1檔ETF存自己的18% 陳重銘著<br>
 ◎ 零基礎的佛系理財術 施昇輝著<br>
-
+◎ 睡美人投資法則  張皓傑著
 
 ###國外經典書籍<br>
 ◎ 永恆的價值─巴菲特傳<br>
